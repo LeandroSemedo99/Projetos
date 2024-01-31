@@ -1,0 +1,35 @@
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\Jogo Breakout.exe.config
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\Jogo Breakout.exe
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\Jogo Breakout.pdb
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.csproj.SuggestedBindingRedirects.cache
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo_Breakout.Form1.resources
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo_Breakout.Properties.Resources.resources
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.csproj.GenerateResource.cache
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.exe
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.pdb
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\Interop.WMPLib.dll
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Interop.WMPLib.dll
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.csproj.ResolveComReference.cache
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\BD.mdf
+C:\Users\leand\Desktop\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\BD_log.ldf
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\BD.mdf
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\BD_log.ldf
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\Jogo Breakout.exe.config
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\Jogo Breakout.exe
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\Jogo Breakout.pdb
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\Interop.WMPLib.dll
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.csproj.AssemblyReference.cache
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Interop.WMPLib.dll
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.csproj.ResolveComReference.cache
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo_Breakout.Form1.resources
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo_Breakout.Properties.Resources.resources
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.csproj.GenerateResource.cache
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.csproj.CoreCompileInputs.cache
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.exe
+C:\Users\tomia\Downloads\Projeto PII\Jogo Breakout\Jogo Breakout\obj\Debug\Jogo Breakout.pdb
