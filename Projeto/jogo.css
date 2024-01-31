@@ -1,0 +1,103 @@
+*{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+
+    color:blue;
+}
+
+
+html{
+
+    background:url("./Imagens/turtle.webp");
+    background-blend-mode: luminosity;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+
+    color: azure;
+}
+.header{
+
+    padding-bottom: 5px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.caixadejogo{
+
+
+    display: inline-grid;
+    grid-template-columns: repeat(3,50px);
+    padding: 20px;
+    gap: 5px;
+    border-radius: 10%;
+    border: 1px solid deepskyblue;
+    background: dodgerblue;
+    float: left;
+}
+.cell{
+
+    height: 50px;
+      
+}
+
+.lixo,
+.jogador{
+
+width: 100%;
+height: 100%;
+}
+.lixo{
+
+    background:url("./Imagens/lixo.jpeg"); 
+    background-size: contain;
+}
+
+.jogador{
+    
+     background:url("./Imagens/cartoon.jpg");
+     background-size: cover;  
+}
+
+
+
+
+a{
+
+    display: block;
+    width: 150px;
+    position: relative;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #0f72e5;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 5px 0;
+    
+}
+
+table{
+    
+    margin-left: auto;
+    margin-right: auto ;
+        
+}
+
+tr#titulo{
+
+    font-weight: bold;
+    background-image: linear-gradient(dodgerblue,white);
+    color: white;
+}
+
+td{
+    color: white;
+    font-size: 20px;
+    font-weight: 40px;
+    padding: 0px 5px;
+}

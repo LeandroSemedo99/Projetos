@@ -1,0 +1,149 @@
+*{
+
+    padding: 0px;
+    margin:0px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+
+body{
+    
+   background: url("./Imagens/oceanback.jpg");
+    background-repeat:round;
+    background-blend-mode: luminosity;
+}
+
+label, input{
+    display: block;
+    line-height: 30px;
+    height: 30px;
+    outline: none;
+    font-size: 13pt;
+
+}
+
+form{
+
+    width:330px;
+    background-image: linear-gradient(dodgerblue,white);
+    margin: 30px auto;
+}
+
+
+input[type="submit"]{
+
+    margin-top:10px;
+    cursor:progress;
+
+}
+
+#esquerda{
+
+    width: 35%;
+    height: 500px;
+    float:left
+}
+/*h2{
+    color: aliceblue;
+    text-align: center;
+}*/
+#direita{
+
+    width: 65%;
+    height: 500px;
+    float: left;
+}
+
+table{
+
+    background-color:whitesmoke;
+    width: 90%;
+    margin: 30px auto;
+}
+
+tr{
+
+    line-height: 30px;
+}
+
+tr#titulo{
+
+    font-weight: bold;
+    background-image: linear-gradient(dodgerblue,white);
+    color: white;
+}
+
+td{
+
+    padding: 0px 5px;
+}
+
+a{
+
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 0px 5px;
+    text-decoration: none;
+}
+
+.alerta{
+
+    width: 90%;
+    height: 50px;
+    margin: 30px auto 0px auto;
+    color:white;
+    
+}
+
+
+h4{
+    float: left;
+    line-height: 50px;
+    color: white;
+    
+}
+
+.popup{
+    background-color: #ffffff;
+    width: 450px;
+    padding: 30px 40px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 8px;
+    font-family: "Poppins",sans-serif;
+    display: none;
+    text-align: center;
+}
+.popup button{
+    display: block;
+    margin:  0 0 20px auto;
+    background-color: transparent;
+    font-size: 30px;
+    color: #c5c5c5;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.popup p{
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px 0;
+    line-height: 25px;
+}
+a{
+    display: block;
+    width: 150px;
+    position: relative;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #0f72e5;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 5px 0;
+}
